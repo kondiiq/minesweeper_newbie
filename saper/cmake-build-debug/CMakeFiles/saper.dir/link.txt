@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/saper.dir/main.cpp.o CMakeFiles/saper.dir/MinesweeperBoard.cpp.o CMakeFiles/saper.dir/MSBoardTextView.cpp.o  -o saper 

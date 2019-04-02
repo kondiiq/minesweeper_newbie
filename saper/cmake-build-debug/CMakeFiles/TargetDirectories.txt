@@ -1,0 +1,3 @@
+/home/kondiiq/CLionProjects/saper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kondiiq/CLionProjects/saper/cmake-build-debug/CMakeFiles/saper.dir
+/home/kondiiq/CLionProjects/saper/cmake-build-debug/CMakeFiles/edit_cache.dir
